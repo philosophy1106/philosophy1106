@@ -6,3 +6,4 @@
   </div>
   
   [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=sunday0516)](https://solved.ac/sunday0516)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=philosophy1106&layout=compact&theme=dark)
